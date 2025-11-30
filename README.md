@@ -48,6 +48,9 @@ bookstore-etl/
 git clone https://github.com/YOUR_USERNAME/bookstore-etl.git
 cd bookstore-etl
 
+# Create virtual env (optional)
+python3 -m venv venv
+
 # Install dependencies
 pip install -r requirements.txt
 
